@@ -3,9 +3,9 @@ import org.w3c.dom.ls.LSOutput;
 import java.sql.SQLOutput;
 import java.util.Scanner;
 
-
 public class Gasto {
     public static void main(String[] args) {
+        
         Scanner entrada = new Scanner(System.in);
 
         System.out.println("Entre com os gastos de janeiro nota:");
