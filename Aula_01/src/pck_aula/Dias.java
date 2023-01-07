@@ -6,6 +6,7 @@ import java.util.Scanner;
 
 public class Dias {
     public static void main(String[] args) {
+        
         Scanner entrada = new Scanner(System.in);
 
         System.out.println("Entre com dia da semana: \n 1-DOMINGO \n 2-SEGUNDA \n 3-TERÇA \n 4-QUARTA \n 5-QUINTA \n 6-SEXTA \n 7-SABÁDO");
