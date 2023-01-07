@@ -3,7 +3,6 @@ import org.w3c.dom.ls.LSOutput;
 import java.sql.SQLOutput;
 import java.util.Scanner;
 
-
 public class Imc {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
