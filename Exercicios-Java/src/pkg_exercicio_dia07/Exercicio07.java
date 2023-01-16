@@ -5,7 +5,6 @@ public class Exercicio07 {
         int Quatro = 4;
         int Cinco = 5;
         int Seis = 6;
-
         int Sete = 7;
         int Oito = 8;
         int Nove = 9;
