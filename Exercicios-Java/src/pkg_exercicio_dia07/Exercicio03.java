@@ -1,5 +1,4 @@
 package pkg_exercicio_dia07;
-
 import java.util.Scanner;
 
 public class Exercicio03 {
@@ -26,7 +25,5 @@ public class Exercicio03 {
         }else if(media >= 3001){
             System.out.println("50% do valor do saldo médio " + saldo);
         }
-
-
     }
 }
