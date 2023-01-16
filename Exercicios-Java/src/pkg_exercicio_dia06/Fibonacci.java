@@ -1,6 +1,7 @@
 package pkg_exercicio_dia06;
 
 public class Fibonacci {
+    
     static long fibo(int n) {
         return (n < 2) ? n : fibo(n - 1) + fibo(n - 2);
     }
