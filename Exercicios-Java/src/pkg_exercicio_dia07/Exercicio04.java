@@ -1,5 +1,4 @@
 package pkg_exercicio_dia07;
-
 import java.util.Scanner;
 
 public class Exercicio04 {
