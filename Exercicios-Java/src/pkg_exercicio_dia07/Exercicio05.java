@@ -16,7 +16,5 @@ public class Exercicio05 {
         }else if (idade >= 16 && idade <= 17 || idade > 65){
             System.out.println("Voto Opcional");
         }
-
-
     }
 }
