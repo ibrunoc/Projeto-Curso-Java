@@ -1,5 +1,4 @@
 package pkg_exercicio_dia07;
-
 import java.util.Scanner;
 
 public class Exercicio02 {
@@ -18,6 +17,5 @@ public class Exercicio02 {
         }else{
             System.out.println("Não é possível dividir");
         }
-;
     }
 }
