@@ -21,6 +21,7 @@ public class Exercicio01 {
 
         System.out.println("Escolha a sobremesa: \n 1-Abacaxi \n 2-Sorvete diet \n 3-Mouse diet \n 4-Mouse chocolate");
         int Sobremesa = entrada.nextInt();
+        
         switch(Sobremesa){
             case 1: valorSobremesa = 75; break;
             case 2: valorSobremesa = 110; break;
@@ -31,6 +32,7 @@ public class Exercicio01 {
 
         System.out.println("Escolha a bebida: \n 1-Chá \n 2-Suco de Laranja \n 3-Suco de melão \n 4-Refrigerante diet");
         int Bebida = entrada.nextInt();
+        
         switch(Bebida){
             case 1: valorBebida = 20; break;
             case 2: valorBebida = 70; break;
