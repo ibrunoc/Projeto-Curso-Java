@@ -68,16 +68,19 @@ public class ContaCorrente {
             case 1:
                 VerSaldo();
                 break;
+                
             case 2:
                 System.out.println("2 - Digite o valor que deseja sacar: ");
                 saque = entrada.nextDouble();
                 Saque(saque);
                 break;
+                
             case 3:
                 System.out.println("3 - Digite o valor que deseja depositar: ");
                 deposito = entrada.nextDouble();
                 Deposito(deposito);
                 break;
+                
             case 4:
                 System.out.println("4 - Operação finalizada! ");
                 break;
