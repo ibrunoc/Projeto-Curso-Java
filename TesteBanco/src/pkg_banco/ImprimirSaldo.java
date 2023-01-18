@@ -6,6 +6,5 @@ public class ImprimirSaldo{
         ContaCorrente c1 = new ContaCorrente("Bruno", 2000.00);
 
         c1.VerSaldo();
-    }
-    
+    }    
 }
