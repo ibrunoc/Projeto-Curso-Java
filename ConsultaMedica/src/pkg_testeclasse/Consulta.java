@@ -1,6 +1,7 @@
 package pkg_testeclasse;
 
 public class Consulta{
+    
     public int id;
     public int id_paciente;
     public int id_medico;
