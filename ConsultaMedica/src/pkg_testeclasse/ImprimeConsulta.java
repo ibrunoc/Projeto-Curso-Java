@@ -1,8 +1,7 @@
 package pkg_testeclasse;
 
 public class ImprimeConsulta {
-    public static void main(String[] args) {
-        
+    public static void main(String[] args) {        
         Paciente Bruno = new Paciente();
         Paciente Nome = new Paciente();
 
